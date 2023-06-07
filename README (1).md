@@ -1,5 +1,5 @@
 # (Dataset Exploration Title)
-## by (your name here)
+## by (Ezulu Priscilla Chinwendu)
 
 
 ## Dataset
@@ -9,7 +9,7 @@
 
 ## Summary of Findings
 
-> In the exploration, i discovered that the  ride duration has an inverse relation with age. This implied that as age increases, the ride duration decreases. Also, there are more rides during the weekday than weekends and most of the rides were during the rush hours of the day between 7am to 7pm. Furthermore, 'Other' gender has higher ride duration  in avarge and Customers has high ride duration than subscribers.
+> In the exploration, I discovered that the  ride duration has an inverse relation with age. This implied that as age increases, the ride duration decreases. Also, there are more rides during the weekday than weekends and most of the rides were during the rush hours of the day between 7am to 7pm. Furthermore, 'Other' gender has higher ride duration  in avarge and Customers has high ride duration than subscribers.
 
 
 ## Key Insights for Presentation
