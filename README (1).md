@@ -1,5 +1,5 @@
-# (FordGoBike Data Exploration)
-## by (Ezulu Priscilla Chinwendu)
+# FordGoBike Data Exploration
+## by Ezulu Priscilla Chinwendu
 
 
 ## Dataset
